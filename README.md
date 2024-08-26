@@ -1,26 +1,29 @@
-# Lama Dev School Management Dashboard
+## Still Learning and updating as development is built on -->
+# FE School Management Dashboard
 
-## Getting Started
+This repository contains the frontend code for a School Management Dashboard. The project is designed to provide an intuitive interface for managing various aspects of school operations, including student information, class schedules, attendance, and more.
 
-First, run the development server:
+## Technologies Used
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is built using the following technologies and frameworks:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **React**: A JavaScript library for building user interfaces.
+- **Next.js**: A React framework that enables server-side rendering and static site generation.
+- **Tailwind CSS**: A utility-first CSS framework for styling the UI components.
+- **TypeScript**: A typed superset of JavaScript that adds static typing to the language.
+- **Axios**: A promise-based HTTP client for making requests to the backend API.
+- **React Query**: A library for fetching, caching, and synchronizing server data in React applications.
+- **React Hook Form**: A library for managing form state and validation in React.
+- **Jest**: A testing framework for JavaScript, used for unit and integration testing.
+- **ESLint**: A tool for identifying and fixing problems in JavaScript code.
+- **Prettier**: A code formatter to ensure consistent code style across the project.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Features
 
-## Learn More
+- **Student Management**: Add, update, and delete student records.
+- **Attendance Tracking**: Mark and view attendance for each class.
+- **Class Scheduling**: Manage and update class schedules.
+- **Teacher Management**: Add and manage teacher profiles and assignments.
+- **Reporting**: Generate reports on student performance, attendance, and more.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)
+## Still Learning and updating as development is built on 
